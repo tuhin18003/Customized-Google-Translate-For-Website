@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-
     <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ftuhin18003%2FCustomized-Google-Translate-For-Website" alt="Hits">
     <br><br>
     <a href="https://codesolz.net">
@@ -16,9 +15,9 @@
 
 ### Description 
 
-Accept Bitcoin / Altcoin payment from your WooCommerce store or Multivendor Marketplace without help of middle man! Use your own coin address to receive payment directly to that address. You can receive any amount of payment as it's directly to your address. There is no chance of FRAUD, STEALING or SCAM. Use this plugin and stay secure as well as anonymous!
+Customize Google Translate to use as a native website translator service
 
-👉 **Start Accepting Any Cryptocurrency in Few Minutes!**
+👉 **Very easy with customize with just little tricks!**
 
 <p align="center">
     <img src="https://codesolz.net/assets/images/blog/how-to-use-google-translate-in-website/sticky-lang-tab-desktop.png" alt="sticky tab desktop"/>
