@@ -17,7 +17,7 @@
 
 Customize Google Translate to use as a native website translator service
 
-👉 **Very easy with customize with just little tricks!**
+👉 **Very easy to customize with just little tricks!**
 
 <p align="center">
     <img src="https://codesolz.net/assets/images/blog/how-to-use-google-translate-in-website/sticky-lang-tab-desktop.png" alt="sticky tab desktop"/>
